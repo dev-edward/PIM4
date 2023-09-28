@@ -1,0 +1,11 @@
+E:\#PRO\Estudo\Unip\Semestre 4\PIM 4\Desenvolvimento\Desktop\Sistema de Automatizacao de Folha de Pagamento\obj\Debug\Sistema de Automatizacao de Folha de Pagamento.csproj.AssemblyReference.cache
+E:\#PRO\Estudo\Unip\Semestre 4\PIM 4\Desenvolvimento\Desktop\Sistema de Automatizacao de Folha de Pagamento\obj\Debug\Sistema_de_Automatizacao_de_Folha_de_Pagamento.Principal.resources
+E:\#PRO\Estudo\Unip\Semestre 4\PIM 4\Desenvolvimento\Desktop\Sistema de Automatizacao de Folha de Pagamento\obj\Debug\Sistema_de_Automatizacao_de_Folha_de_Pagamento.Properties.Resources.resources
+E:\#PRO\Estudo\Unip\Semestre 4\PIM 4\Desenvolvimento\Desktop\Sistema de Automatizacao de Folha de Pagamento\obj\Debug\Sistema de Automatizacao de Folha de Pagamento.csproj.GenerateResource.cache
+E:\#PRO\Estudo\Unip\Semestre 4\PIM 4\Desenvolvimento\Desktop\Sistema de Automatizacao de Folha de Pagamento\obj\Debug\Sistema de Automatizacao de Folha de Pagamento.csproj.CoreCompileInputs.cache
+E:\#PRO\Estudo\Unip\Semestre 4\PIM 4\Desenvolvimento\Desktop\Sistema de Automatizacao de Folha de Pagamento\bin\Debug\Sistema de Automatizacao de Folha de Pagamento.exe.config
+E:\#PRO\Estudo\Unip\Semestre 4\PIM 4\Desenvolvimento\Desktop\Sistema de Automatizacao de Folha de Pagamento\bin\Debug\Sistema de Automatizacao de Folha de Pagamento.exe
+E:\#PRO\Estudo\Unip\Semestre 4\PIM 4\Desenvolvimento\Desktop\Sistema de Automatizacao de Folha de Pagamento\bin\Debug\Sistema de Automatizacao de Folha de Pagamento.pdb
+E:\#PRO\Estudo\Unip\Semestre 4\PIM 4\Desenvolvimento\Desktop\Sistema de Automatizacao de Folha de Pagamento\obj\Debug\Sistema de Automatizacao de Folha de Pagamento.exe
+E:\#PRO\Estudo\Unip\Semestre 4\PIM 4\Desenvolvimento\Desktop\Sistema de Automatizacao de Folha de Pagamento\obj\Debug\Sistema de Automatizacao de Folha de Pagamento.pdb
+E:\#PRO\Estudo\Unip\Semestre 4\PIM 4\Desenvolvimento\Desktop\Sistema de Automatizacao de Folha de Pagamento\obj\Debug\Sistema_de_Automatizacao_de_Folha_de_Pagamento.LoginForm.resources
