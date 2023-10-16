@@ -47,8 +47,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Funcionario.cs" />
+    <Compile Include="FuncionarioTela.cs" />
     <Compile Include="conexao.cs" />
-    <Compile Include="FuncionarioCadastrar.cs" />
+    <Compile Include="FuncionarioDAO.cs" />
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>

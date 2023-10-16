@@ -59,22 +59,22 @@ namespace Sistema_de_Automatizacao_de_Folha_de_Pagamento
             ToolStripMenuItem mItemGerarExameMedico = new ToolStripMenuItem("Gerar guia de encaminhamento");
             ToolStripMenuItem mItemConsultarExameMedico = new ToolStripMenuItem("Consultar exame médico");
 
-            menuStrip.Items.Add(menuGerenciarFuncionario);
+            abasAbertas.Items.Add(menuGerenciarFuncionario);
             menuGerenciarFuncionario.DropDownItems.Add(mItemCadastrarFuncionario);
             menuGerenciarFuncionario.DropDownItems.Add(mItemConsultarFuncionario);
-            menuStrip.Items.Add(menuFolhaPagamento);
+            abasAbertas.Items.Add(menuFolhaPagamento);
             menuFolhaPagamento.DropDownItems.Add(mItemGerarFolha);
             menuFolhaPagamento.DropDownItems.Add(mItemConsultarFolha);
-            menuStrip.Items.Add(menuEspelhoPonto);
+            abasAbertas.Items.Add(menuEspelhoPonto);
             menuEspelhoPonto.DropDownItems.Add(mItemGerarEspelho);
             menuEspelhoPonto.DropDownItems.Add(mItemConsultarEspelho);
-            menuStrip.Items.Add(menuAvisoFerias);
+            abasAbertas.Items.Add(menuAvisoFerias);
             menuAvisoFerias.DropDownItems.Add(mItemGerarAvisoFerias);
             menuAvisoFerias.DropDownItems.Add(mItemConsultarAvisoFerias);
-            menuStrip.Items.Add(menuContratoTrabalho);
+            abasAbertas.Items.Add(menuContratoTrabalho);
             menuContratoTrabalho.DropDownItems.Add(mItemGerarContratoTrabalho);
             menuContratoTrabalho.DropDownItems.Add(mItemConsultarContratoTrabalho);
-            menuStrip.Items.Add(menuExameMedico);
+            abasAbertas.Items.Add(menuExameMedico);
             menuExameMedico.DropDownItems.Add(mItemGerarExameMedico);
             menuExameMedico.DropDownItems.Add(mItemConsultarExameMedico);
 
@@ -85,10 +85,16 @@ namespace Sistema_de_Automatizacao_de_Folha_de_Pagamento
         }
         private void mItemCadastrarFuncionario_Click(object sender, EventArgs e)
         {
-            Funcionario.CadastroFuncionario(this);
+            FuncionarioTela.CarregarForm(this);
             
         }
         private void mItemConsultarFuncionario_Click(object sender, EventArgs e)
+        {
+            FuncionarioTela.ConsultarFuncionario();
+
+        }
+
+        private void menuStrip_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
         {
 
         }
